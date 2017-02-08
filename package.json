@@ -1,0 +1,14 @@
+{
+  "name": "electron-playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rockchalkwushock/electron-playground.git",
+  "author": "Cody Brunner <rockchalkwushock@icloud.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "dependencies": {
+    "electron": "^1.4.15"
+  }
+}
